@@ -32,7 +32,7 @@
 
 <img src="assets/skills-dashboard.svg" width="100%" alt="Languages: Python, C, C++, JavaScript. Frontend: HTML, CSS, JavaScript, React. Backend: Django, Flask. Mobile: Flutter, Dart. Data Science and Analytics: Pandas, NumPy, Matplotlib, Seaborn, Power BI, MySQL. Tools: Git, GitHub.">
 
-<sub>Technology names belong to their respective owners. Icons are simplified illustrations, not official logos.</sub>
+<sub></sub>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
